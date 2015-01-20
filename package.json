@@ -1,0 +1,19 @@
+{
+  "name": "amd-react-boiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "amd-optimize": "^0.4.3",
+    "gulp": "^3.8.10",
+    "gulp-serve": "^0.3.0",
+    "gulp-watch": "^3.0.0",
+    "main-bower-files": "^2.5.0"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "",
+  "license": "ISC"
+}
