@@ -37,4 +37,4 @@ gulp.task('watch', function() {
   gulp.watch(paths.jsx, ['jsx']);
 });
 
-gulp.task('default', ['watch', 'serve']);
+gulp.task('default', ['jsx', 'libs', 'src', 'watch', 'serve']);
